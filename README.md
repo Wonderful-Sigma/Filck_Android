@@ -1,2 +1,2 @@
-# SoftPay_Android
-소프트 페이 안드로이드 버전
+# Flick_Android
+Flick 안드로이드 버전
