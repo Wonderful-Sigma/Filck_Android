@@ -1,6 +1,6 @@
 plugins {
-    id (Plugins.androidApplication).version(Versions.ANDROID).apply(false)
-    id (Plugins.androidLibrary).version(Versions.ANDROID).apply(false)
-    id (Plugins.jetbrainsAndroid).version(Versions.JETBRAINS).apply(false)
-    id (Plugins.jetbrainsJvm).version(Versions.JETBRAINS).apply(false)
+    id ("com.android.application").version("8.0.0").apply(false)
+    id ("com.android.library").version("8.0.0").apply(false)
+    id ("org.jetbrains.kotlin.android").version("1.8.0").apply(false)
+    id ("org.jetbrains.kotlin.jvm").version("1.8.0").apply(false)
 }
